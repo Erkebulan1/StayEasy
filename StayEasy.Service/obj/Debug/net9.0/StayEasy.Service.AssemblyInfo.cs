@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StayEasy.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21512e0d48dd8a7c74763217dc52655085a2a235")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efe117c934065dbf56e0d9dd2295effbd0aed7f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("StayEasy.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StayEasy.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

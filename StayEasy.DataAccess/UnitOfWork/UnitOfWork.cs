@@ -40,6 +40,6 @@ public class UnitOfWork(AppDbContext context) : IUnitOfWork
     public void Dispose()
     {
         context.Dispose();
-        GC.SuppressFinalize(this);
+        
     }
 }
